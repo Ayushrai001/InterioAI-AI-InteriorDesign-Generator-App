@@ -9,12 +9,12 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #eaefd2;
             color: #333;
         }
         header {
-            background-color: #007bff;
-            color: #fff;
+            background-color: #aec7f4;
+            color: #0e0d0d;
             padding: 10px 0;
             text-align: center;
         }
@@ -46,34 +46,75 @@
 </head>
 <body>
     <header>
-        <h1>Web Page for Internal Links</h1>
+        <h1>Semester Courses</h1>
     </header>
 
     <nav>
-        <a href="#location1">Section 1</a>
-        <a href="#location2">Section 2</a>
-        <a href="#location3">Section 3</a>
-        <a href="#location4">Section 4</a>https://www.onlinegdb.com/#tab-stdin
+        <a href="#location1">First Year</a>
+        <a href="#location2">Second Year</a>
+        <a href="#location3">Third Year</a>
+        <a href="#location4">Fourth Year</a>
     </nav>
 
     <section id="location1">
-        <h2>Section 1</h2>
+        <h2>First Year</h2>
         <p>First Year Content</p>
+         <strong>Sem - 1</strong>
+            <li>Professional Communication</li>
+            <li>Programming for Problem Solving</li>
+            <li>Wave and Optics and Introduction to Quantum Mechanics</li>
+            <li>Electrical and Electronics Engineering</li>
+            <li>Engineering mathematics - 1</li>
+            <strong>Sem - 2</strong>
+            <li>Data Structure</li>
+            <li>Indian English Litrature</li>
+            <li>Introduction to Mechanics</li>
+            <li>Engineering Graphics</li>
+            <li>Engineering mathematics - 2</li>
     </section>
 
     <section id="location2">
-        <h2>Section 2</h2>
+        <h2>Second Year</h2>
         <p>Second Year Content</p>
+             <strong>Sem - 3</strong>
+            <li>Probability And Statistics</li>
+            <li>Principles of Management</li>
+            <li>Introduction to Java</li>
+            <li>Environmental Science</li>
+            <li>Computer Organization and Architecture</li>
+            <li>Discrete mathematics</li>
+            <strong>Sem - 4</strong>
+            <li>Database Management Systems</li>
+            <li>Operating Systems</li>
+            <li>Digital Electronics</li>
+            <li>Advanced Java</li>
+            <li>Indian Constitution</li>
+            <li>litrature,Language and Society</li>
     </section>
 
     <section id="location3">
-        <h2>Section 3</h2>
+        <h2>Third Year</h2>
         <p>Third Year Content</p>
+        <strong>Sem - 5</strong>
+            <li>Design and Analysis of Algorithms</li>
+            <li>Cloud Computing</li>
+            <li>Front-end Engineering</li>
+            <li>Aptitude and Soft Skills</li>
+            <li>Environmental Management and Sustainability</li>
+            <li>Artificial Intelligence</li>
+             <strong>Sem - 6</strong>
+            <li>Software Engineering</li>
+            <li>Technical Training</li>
+            <li>Adv. Front-end</li>
+            <li>Theory Of Computation</li>
+            <li>Entrepreneuriship and Start-ups</li>
+            <li>carbon Capture and Sequestration</li>
     </section>
 
     <section id="location4">
-        <h2>Section 4</h2>
+        <h2>Forth Year </h2>
         <p>Final Year Content</p>
+         <strong>Ongoing</strong>
     </section>
 </body>
 </html>
