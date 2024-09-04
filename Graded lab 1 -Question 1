@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Page for Internal Links</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            text-decoration: none;
+            color: #007bff;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+            margin: 0 auto;
+            max-width: 800px;
+        }
+        section:nth-of-type(even) {
+            background-color: #e9ecef;
+        }
+        section h2 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Web Page for Internal Links</h1>
+    </header>
+
+    <nav>
+        <a href="#location1">Section 1</a>
+        <a href="#location2">Section 2</a>
+        <a href="#location3">Section 3</a>
+        <a href="#location4">Section 4</a>https://www.onlinegdb.com/#tab-stdin
+    </nav>
+
+    <section id="location1">
+        <h2>Section 1</h2>
+        <p>First Year Content</p>
+    </section>
+
+    <section id="location2">
+        <h2>Section 2</h2>
+        <p>Second Year Content</p>
+    </section>
+
+    <section id="location3">
+        <h2>Section 3</h2>
+        <p>Third Year Content</p>
+    </section>
+
+    <section id="location4">
+        <h2>Section 4</h2>
+        <p>Final Year Content</p>
+    </section>
+</body>
+</html>
