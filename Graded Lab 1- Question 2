@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semester Courses</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #007bff;
+        }
+        ol {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Semester Courses</h1>
+        <ol>
+            <strong>Sem - 1</strong>
+            <li>Professional Communication</li>
+            <li>Programming for Problem Solving</li>
+            <li>Wave and Optics and Introduction to Quantum Mechanics</li>
+            <li>Electrical and Electronics Engineering</li>
+            <li>Engineering mathematics - 1</li>
+            <strong>Sem - 2</strong>
+            <li>Data Structure</li>
+            <li>Indian English Litrature</li>
+            <li>Introduction to Mechanics</li>
+            <li>Engineering Graphics</li>
+            <li>Engineering mathematics - 2</li>
+            <strong>Sem - 3</strong>
+            <li>Probability And Statistics</li>
+            <li>Principles of Management</li>
+            <li>Introduction to Java</li>
+            <li>Environmental Science</li>
+            <li>Computer Organization and Architecture</li>
+            <li>Discrete mathematics</li>
+            <strong>Sem - 4</strong>
+            <li>Database Management Systems</li>
+            <li>Operating Systems</li>
+            <li>Digital Electronics</li>
+            <li>Advanced Java</li>
+            <li>Indian Constitution</li>
+            <li>litrature,Language and Society</li>
+             <strong>Sem - 5</strong>
+            <li>Design and Analysis of Algorithms</li>
+            <li>Cloud Computing</li>
+            <li>Front-end Engineering</li>
+            <li>Aptitude and Soft Skills</li>
+            <li>Environmental Management and Sustainability</li>
+            <li>Artificial Intelligence</li>
+             <strong>Sem - 6</strong>
+            <li>Software Engineering</li>
+            <li>Technical Training</li>
+            <li>Adv. Front-end</li>
+            <li>Theory Of Computation</li>
+            <li>Entrepreneuriship and Start-ups</li>
+            <li>carbon Capture and Sequestration</li>
+            
+        </ol>
+    </div>
+</body>
+</html>
